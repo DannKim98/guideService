@@ -1,0 +1,5 @@
+.idea
+alldata/__pycache__
+alldata/migrations/__pycache__
+guideService/__pycache__
+
